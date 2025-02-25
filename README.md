@@ -17,26 +17,34 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## Deploying to Netlify
+## Impression 3D
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
 
-## Developing Locally
+Donnez vie à vos idées grâce à l'impression 3D sur mesure !
+
+Je suis équipé d'une imprimante 3D Bambulab P1S avec AMS, capable de créer des pièces en 4 couleurs simultanément. Je vous propose d’imprimer vos projets en PLA, avec une palette de 15 couleurs disponibles. Taille maximale des pièces : 256 x 256 x 256 mm. D'autres matériaux sont possibles sur demande et commande.
+
+Comment ça fonctionne ?
+
+Envoyez-moi vos fichiers (STL, 3MF, DXF).
+
+Je vous communique un prix en fonction de la complexité, du temps d’impression et de la quantité de matière utilisée.
+
+Exemples de réalisations :
+
+Emporte-pièces personnalisés pour vos gâteaux : créez un modèle unique à partir d’un dessin de votre enfant, d’un line art minimaliste ou d’une idée qui vous tient à cœur.
+
+Modélisation sur demande : je peux dessiner vos pièces sur mesure. Tarifs à discuter en fonction de la taille et de la complexité du projet.
+
+Expédition :
+Vos créations sont envoyées par voie postale uniquement.
+
+Contact :
+Uniquement via la messagerie Le Bon Coin.
+
+Laissez libre cours à votre imagination, et je m’occupe du reste !
 
 | Prerequisites             |
-| :------------------------ |
-| [Node.js](https://nodejs.org/) v18.14+. |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
-
-1. Clone this repository, then run `npm install` in its root directory.
-
-2. For the starter to have full functionality locally (e.g. edge functions, blob store), please ensure you have an up-to-date version of Netlify CLI. Run:
-
-```
-npm install netlify-cli@latest -g
-```
-
-3. Link your local repository to the deployed Netlify site. This will ensure you're using the same runtime version for both local development and your deployed site.
 
 ```
 netlify link
